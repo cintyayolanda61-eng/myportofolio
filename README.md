@@ -37,7 +37,7 @@ Website ini juga dirancang agar memiliki tampilan yang sederhana, responsif, dan
 
 ## Demo Website
 
-🔗 https://cndyy07.github.io/myportofolio/
+🔗 https://cintyayolanda61-eng.github.io/myportofolio/
 
 ## Tujuan Proyek
 
